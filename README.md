@@ -1,2 +1,2 @@
-# Praktikum-Deep-Learning-ITERA
-Tugas Praktikum 
+# Deep-Learnig
+
